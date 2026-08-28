@@ -213,9 +213,9 @@ python results/generate_report.py
 
 ```
 ┌──────────────────────────────┐
-│   VARUNRAJ                   │
-│   SUDHARSAN                  │
-│   — Final Year B.E/B.Tech —  │
+│   VARUNRAJ.P                 │
+│   SUDHARSAN.C                │
+│   — Final Year B.Tech — IT   │
 └──────────────────────────────┘
 ```
 
