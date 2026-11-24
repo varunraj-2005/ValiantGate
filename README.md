@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/Picture1.png" alt="Adaptive API Rate Limiting Banner" width="450"/>
+<img src="Picture1.png" alt="Adaptive API Rate Limiting Banner" width="250"/>
 
-# `< A D A P T I V E _ R A T E _ L I M I T E R />`
+# `< A D A P T I V E  R A T E  L I M I T E R />`
 ### ⚙️ PROTECTING WEB APIs AGAINST VARIABLE TRAFFIC AND ABUSE ⚙️
 
 ```
