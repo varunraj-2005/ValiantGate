@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive Rate Limiter Research System",
+  "description": "Traffic- and resource-aware adaptive rate limiting for Web APIs using FastAPI, Redis, Streamlit, and Locust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
